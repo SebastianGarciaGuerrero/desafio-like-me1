@@ -24,7 +24,7 @@
     "express": "^4.18.2",
     "fs": "^0.0.1-security",
     "pg": "^8.11.3",
-    "uuid": "^9.0.1"
+    "uuid": "^9.5.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.1",
